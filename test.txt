@@ -3,4 +3,6 @@ second line, second commit
 third line, third commit
 fourth line, fourth commit, not pushed
 fifth line, fifth commit, not pushed
+sixth line, sixth commit, not pushed
+seventh line, seventh commit, not pushed
 
